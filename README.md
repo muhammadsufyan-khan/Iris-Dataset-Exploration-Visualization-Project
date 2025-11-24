@@ -17,8 +17,7 @@ This repository is ideal for:
 ```
 Iris-EDA-Project/
 │
-├── README.md                # Project documentation
-├── iris_eda.ipynb           # Google Colab compatible notebook
+├── README.md                # Project documentation         
 └── iris_eda.py              # Python script version of the analysis
 ```
 
