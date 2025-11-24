@@ -11,7 +11,6 @@ This repository is ideal for:
 * GitHub portfolio projects
 * Python visualization practice
 
----
 
 ## 📂 Project Structure
 
@@ -23,7 +22,6 @@ Iris-EDA-Project/
 └── iris_eda.py              # Python script version of the analysis
 ```
 
----
 
 ## ✨ Features
 
@@ -35,7 +33,6 @@ Iris-EDA-Project/
 ✔ Box plots to identify outliers
 ✔ Pairplot (multi-dimensional visualization)
 
----
 
 ## 📦 Dependencies
 
@@ -45,7 +42,6 @@ Install these before running:
 pip install pandas seaborn matplotlib
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -61,7 +57,6 @@ Run the Python script:
 python iris_eda.py
 ```
 
----
 
 ## 🧪 Code Used in This Project
 
@@ -105,7 +100,6 @@ plt.tight_layout()
 plt.show()
 ```
 
----
 
 ## 📸 Visual Outputs
 
@@ -116,7 +110,6 @@ This project generates the following visualizations:
 * Box Plot
 * Pair Plot
 
----
 
 ## 🤝 Contributing
 
@@ -126,13 +119,11 @@ Feel free to contribute:
 * Add machine learning classification models
 * Improve documentation
 
----
 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
 
----
 
 ## ⭐ Show Support
 
