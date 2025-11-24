@@ -25,11 +25,17 @@ Iris-EDA-Project/
 ## ✨ Features
 
 ✔ Load and inspect Iris dataset
+
 ✔ Display shape, columns, first rows
+
 ✔ Generate summary statistics
+
 ✔ Scatter plots to show relationships
+
 ✔ Histograms for distribution analysis
+
 ✔ Box plots to identify outliers
+
 ✔ Pairplot (multi-dimensional visualization)
 
 
